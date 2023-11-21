@@ -12,6 +12,10 @@ The website includes an interactive navigation bar with a dark theme, providing 
 
 A dynamic image carousel is implemented on the homepage, showcasing beautiful images of the bed and breakfast. The carousel is interactive and automatically transitions between slides.
 
+### Google Map Embed
+
+An embedded Google Map is included on the Contact page, allowing users to view the location of the bed and breakfast easily.
+
 ### Cards
 
 Information about different houses or rooms is presented using Bootstrap cards. Each card includes an image, title, and a brief description, creating an organized and visually appealing layout.
